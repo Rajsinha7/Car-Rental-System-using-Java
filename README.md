@@ -42,7 +42,7 @@ car-rental-system/
 -->How to Run the Project
 Make sure Java (JDK) is installed on your system.
 Clone the repository:
-git clone https://github.com/your-username/car-rental-system.git
+git clone (https://github.com/Rajsinha7/Car-Rental-System-using-Java)
 Navigate to the project directory:
 cd car-rental-system
 Compile the Java files:
